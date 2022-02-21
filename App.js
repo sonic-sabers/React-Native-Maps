@@ -12,16 +12,17 @@ import {
   ScrollView,
   StatusBar,
   StyleSheet,
-  Text, 
+  Text,
   useColorScheme,
   View,
 } from 'react-native';
+import { Maps } from './src/screens';
 ;
 
 export default App = () => {
   return (
-    <SafeAreaView style={backgroundStyle}>
-      <Text>sdfvadf</Text>
+    <SafeAreaView style={{ flex: 1 }}>
+      <Maps />
     </SafeAreaView>
   );
 };
