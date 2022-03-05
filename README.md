@@ -3,7 +3,7 @@
 
 Home               |               
 :-------------------------:|
-![](/\Snapshotss/Screenshot.png)||![](/Snapshotss/Screenshot.png)|
+![](/\src/Home.png)||
 
 
 ## Configuration Steps
