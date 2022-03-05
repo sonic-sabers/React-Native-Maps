@@ -20,7 +20,7 @@ export default function Maps() {
             longitude: 2.3361663,
         },
     ]);
-    const GOOGLE_MAPS_APIKEY = 'AIzaSyDERZgMoGSyQWrLSo0iU-c6rYeQoMAYQQk';
+    const GOOGLE_MAPS_APIKEY = '************';
     const origin = { latitude: 28.572032, longitude: 77.184770 };
     const destination = { latitude: 28.569731, longitude: 77.201620 };
     return (
