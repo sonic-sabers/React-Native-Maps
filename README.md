@@ -3,7 +3,7 @@
 
 Home               |               
 :-------------------------:|
-![](/\src/Home.png)||
+![](/src/Home.png)||
 
 
 ## Configuration Steps
